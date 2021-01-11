@@ -14,7 +14,7 @@ Aplikasi ini bertujuan simulasi pembelian makanan dan minuman dengan menggunakan
 
 Dalam kasus yang diberikan oleh saya, ada 4 buah model dan 3 buah controller yang bertujuan untuk menjalankan program ini.
 
-Dimulai dari 'Penawaran.xaml.cs'
+Dimulai dari "Penawaran.xaml.cs"
 
 ```csharp
 private void generateContentPenawaran()
