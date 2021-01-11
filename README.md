@@ -56,7 +56,7 @@ private void generateListVoucher()
         }
 ```
 
-kemudian pada `MainWindow.xaml.cs`kita menginisiasi object dari `Penawaran.xaml.cs` dan juga `Voucher.xaml.cs`, untuk di masukkan dalam sebuah list KeranjangBelanja dan menampilkan total dari semua yang user belanja, akan ditampilkan di listbaox.
+kemudian pada `MainWindow.xaml.cs`kita menginisiasi object dari `Penawaran.xaml.cs` dan juga `Voucher.xaml.cs`, untuk di masukkan dalam sebuah list KeranjangBelanja dan menampilkan total dari semua yang user belanja, akan ditampilkan di listbox.
 
 ```csharp
 public partial class MainWindow : Window,
