@@ -1,14 +1,13 @@
-# Peran Bagian MVC
+# Studi Kasus
 
-MVC merupakan salah satu strategi untuk membuat sourcode kita memenuhi standar Single Responsibility.
+Aplikasi ini bertujuan simulasi pembelian makanan dan minuman dengan menggunakan promo/voucher.
 
-## Tujuan
+## Scope and Functionalities
 
-- Memahami peran dan fungsi masing-masing bagian MVC
+- User dapat melihat daftar makanan dan minuman
+- User dapat melihat voucher yang ditawarkan
+- User bisa menggunakan voucher untuk diskon makanan dan minuman yang dipesan
+- User dapat menghapus pesanan yang udah di pesan
+- User dapat melihat potongan harga dengan menggunakan salah satu voucher yang tersedia
 
-## About
-
-- Membuat aplikasi pemesanan makanan
-- Membuat keranjang sebagai wadah makanan dan minuman yang dipesan
-- Kelas payment digunakan untuk kalkulasi
-- Bagian View (direpresentasikan dengan .xaml dan .xaml.cs ) bertanggung jawab atas state Button, Listbox, Label dan komponen view lainnya.
+## How Does It Works?
