@@ -1,3 +1,6 @@
+Nama : Muhammad Daffa Rafikanza Noor
+NIM : 19.11.2826
+
 # Studi Kasus
 
 Aplikasi ini bertujuan simulasi pembelian makanan dan minuman dengan menggunakan promo/voucher.
