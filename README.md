@@ -1,5 +1,5 @@
-# Nama : Muhammad Daffa Rafikanza Noor
-# NIM : 19.11.2826
+# Nama  : Muhammad Daffa Rafikanza Noor
+# NIM   : 19.11.2826
 
 # Studi Kasus
 
